@@ -1,7 +1,5 @@
 # Super Nintendo Basic UV Cartridge (SNES-4NJ8D-01C) 
 
-# Order at your own risk -- v1.1 is untested
-
 This is an updated design of my old <a href="https://mousebitelabs.com/2019/08/12/how-to-make-a-snes-reproduction-cartridge-quick-guide/">SNES Basic cartridge boards</a>, which can use the original mask ROM chips from SNES carts, or the older 27C160 UV EPROM chips. You can even use my <a href="https://github.com/MouseBiteLabs/ROM-Adapter-Boards/tree/main/29F160%20to%20UV%20EPROM">29F160 to 27C160 adapter boards</a>, which use brand new 29F160 flash chips if you don't want to deal with old parts. 
 
 Functionally, this design is the same as the older one, but under the hood I have ported the project over from Eagle to KiCad, and heavily cleaned up the schematic and some of the trace routings. I also added support for the MAD-1 chip from a donor board, unlocking a lot of potential for replacing old or damaged games. This version is also fully open source.
