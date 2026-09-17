@@ -219,6 +219,25 @@ Replace U5 in Group B above with the part detailed here, and add the other three
 | C6        | 0.1u              | Radial 2.5mm spacing | Ceramic Capacitor      | [https://mou.sr/481ILov](https://mou.sr/481ILov) |
 | U6        | MAD-1             | DIP-16               | Memory Address Decoder | Donor Cartridge                                  |
 
+## Using as a Parts Transfer Board for Damaged SNES Cartridges
+
+You can use the Basic UV board as a parts-transplant board for the following SNES game boards. Note that the thinner RAM chips will not physically fit, and it's recommended you use new passive components (resistors, capacitors, diodes).
+
+- SHVC-1A0N-xx
+- SHVC-1A1B-xx
+- SHVC-1A1M-xx
+- SHVC-1A3B-xx
+- SHVC-1A3M-xx
+- SHVC-1A5B-xx
+- SHVC-1A5M-xx
+- SHVC-1A7M-xx
+- SHVC-1A9F-xx
+- SHVC-1J0N-xx
+- SHVC-1J1M-xx
+- SHVC-1J3B-xx
+- SHVC-1J3M-xx
+- SHVC-1J5M-xx
+
 ## Restrictions for v1.0
 
 If you have a v1.0 board, you have the following restrictions:
